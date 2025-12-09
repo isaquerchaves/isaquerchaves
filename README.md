@@ -18,9 +18,12 @@ Estou sempre em busca de inovação e melhores práticas para aprimorar nossos p
  
   ### Main skills:
 
+![JAVA](https://img.shields.io/badge/-JAVA-0D1117?style=for-the-badge&logo=coffeescript&logoColor=E51F24&labelColor=0D1117)
+![SPRINGBOOT](https://img.shields.io/badge/-SPRINGBOOT-0D1117?style=for-the-badge&logo=SPRINGBOOT&logoColor=6AAD3D&labelColor=0D1117)&nbsp;
+![KOTLIN](https://img.shields.io/badge/-KOTLIN-0D1117?style=for-the-badge&logo=KOTLIN&logoColor=7F52FF&labelColor=0D1117)
+![GO](https://img.shields.io/badge/-GOLANG-0D1117?style=for-the-badge&logo=GO&logoColor=00A7D0&labelColor=0D1117)&nbsp;
 ![NEXT](https://img.shields.io/badge/-NEXT.JS-0D1117?style=for-the-badge&logo=NEXT.JS&logoColor=FFFFFF&labelColor=0D1117)&nbsp;
 ![REACT](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&logoColor=00BFFF&labelColor=0D1117)&nbsp;
 ![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-0D1117?style=for-the-badge&logo=TYPESCRIPT&logoColor=00BFFF&labelColor=0D1117)&nbsp;
-![GO](https://img.shields.io/badge/-GOLANG-0D1117?style=for-the-badge&logo=GO&logoColor=00A7D0&labelColor=0D1117)&nbsp;
-![SPRINGBOOT](https://img.shields.io/badge/-SPRINGBOOT-0D1117?style=for-the-badge&logo=SPRINGBOOT&logoColor=6AAD3D&labelColor=0D1117)&nbsp;
-![NODE](https://img.shields.io/badge/-NODE.JS-0D1117?style=for-the-badge&logo=NEXT.JS&logoColor=57A545&labelColor=0D1117)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=0D1117)
+
