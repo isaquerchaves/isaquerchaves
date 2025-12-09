@@ -1,9 +1,7 @@
 ### Olá! Me chamo Isaque! 👋
-Graduado em Sistemas de Informação, sou Desenvolvedor Full Stack no time de Produtos de Pós-Graduação e B2B da Escola Conquer. 
+Sou Desenvolvedor Full Stack com formação em Sistemas de Informação e Pós-Graduado em Liderança e Gestão em Tecnologia. 
 
-No front-end, trabalho com Next.js, React, JavaScript/TypeScript, Styled Components e Stitches, criando experiências de usuário intuitivas. 
-
-No back-end, contribuo com o desenvolvimento de soluções em Java com Spring Boot e Golang.
+Desde 2023, atuo no desenvolvimento backend e frontend, projetando soluções robustas com Golang, Java (8-21) e Spring Framework, aplicando princípios de Arquitetura Hexagonal e Clean Architecture, jutamente com interfaces intuitivas e rápidas utilizando React e Next.
 
 Estou sempre em busca de inovação e melhores práticas para aprimorar nossos produtos e atender às necessidades dos nossos usuários.
 
