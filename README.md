@@ -1,7 +1,7 @@
 ### Olá! Me chamo Isaque! 👋
 Sou Desenvolvedor Full Stack com formação em Sistemas de Informação e Pós-Graduado em Liderança e Gestão em Tecnologia. 
 
-Desde 2023, atuo no desenvolvimento backend e frontend, projetando soluções robustas com Golang, Java (8-21) e Spring Framework, aplicando princípios de Arquitetura Hexagonal e Clean Architecture, jutamente com interfaces intuitivas e rápidas utilizando React e Next.
+Desde 2023, atuo no desenvolvimento backend e frontend, projetando soluções robustas com Kotlin, Java (8-21), Spring Framework e Golang, aplicando princípios de Arquitetura Hexagonal e Clean Architecture, jutamente com interfaces intuitivas e rápidas utilizando React e Next.
 
 Estou sempre em busca de inovação e melhores práticas para aprimorar nossos produtos e atender às necessidades dos nossos usuários.
 
